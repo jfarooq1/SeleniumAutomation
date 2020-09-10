@@ -41,6 +41,7 @@ public class gridtest {
 		driver.get("https://www.google.com/maps");
 		
 
+		System.out.println("Thats all of it");
 	}
 
 }
